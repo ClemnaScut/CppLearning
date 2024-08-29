@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudioPro\\CppLearning\\CRTP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB41DFC6-02B6-4815-94D3-3251DF50F0C0}|CRTP\\CRTP.vcxproj|D:\\VisualStudioPro\\CppLearning\\CRTP\\CRTP\\CRTP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB41DFC6-02B6-4815-94D3-3251DF50F0C0}|CRTP\\CRTP.vcxproj|solutionrelative:CRTP\\CRTP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CRTP.cpp",
+              "DocumentMoniker": "D:\\VisualStudioPro\\CppLearning\\CRTP\\CRTP\\CRTP.cpp",
+              "RelativeDocumentMoniker": "CRTP\\CRTP.cpp",
+              "ToolTip": "D:\\VisualStudioPro\\CppLearning\\CRTP\\CRTP\\CRTP.cpp",
+              "RelativeToolTip": "CRTP\\CRTP.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-29T11:07:24.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
